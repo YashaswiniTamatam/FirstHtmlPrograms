@@ -1,0 +1,14 @@
+.body{
+    background-image: url('image\ 8.jpg');
+    background-size:cover;
+    height: 100vh;
+    text-align:-webkit-center;
+    padding: 80px;
+    
+    
+   
+}
+.form2{
+    visibility:hidden;
+    transition-duration: 5s;
+}
